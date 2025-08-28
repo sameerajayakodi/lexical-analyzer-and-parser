@@ -48,7 +48,7 @@ import TokensTable from "./components/TokensTable";
 import { mockAnalysis } from "./mockData";
 import theme from "./theme";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "/api";
 const drawerWidth = 240;
 
 function App() {
